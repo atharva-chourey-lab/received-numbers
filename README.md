@@ -26,3 +26,7 @@ Famous figures in Indian history circulate detached from the texts that first ca
 ## Sources and fidelity
 
 Every quantitative claim in the paper is traced to its source file in [SOURCES.md](SOURCES.md). Novelty claims were checked against the published literature before release; where a prior work already held a claim, the paper says so and cites it.
+
+## Licence
+
+This work is licensed under a [Creative Commons Attribution 4.0 International Licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may share and adapt it with attribution to Atharva Chourey, Atharva Chourey Lab.
